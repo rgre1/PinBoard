@@ -2,4 +2,4 @@
 
 Ruby On Rails, am I right? 
 
-by:[Russ](http://grbk.co)
+by: [Russ](http://grbk.co)
